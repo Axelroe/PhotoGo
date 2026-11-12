@@ -1,0 +1,12 @@
+{
+  "version": "2.3.0",
+  "minLoader": "2.3.0",
+  "notes": "首个支持自动更新的版本",
+  "files": {
+    "app.js": "82e90a0d630c5f5c2a410ffa213f1efd24cba6304d3812f553ddf074f1150bf4",
+    "index.html": "b5a206e23edfae2efd1c024545bd71656ef67717adf6c72ce40f81121f2daa46",
+    "splash.html": "3d3eb01dd4240f876cf060a6ecd3f69b65ba6debb3331d48677a8891998878f5",
+    "splash-art.jpg": "d4642832e024d7b8493bc9ed5bc183562617becd6f6aa9de66bdab13f759e6d7",
+    "splash-icon.png": "d1f005eef651b346c77a83bdee706ffde3f2954700e841b2279e1971333a8e34"
+  }
+}
