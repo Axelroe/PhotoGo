@@ -1,11 +1,11 @@
 {
-  "version": "2.3.1",
+  "version": "2.3.2",
   "minLoader": "2.3.0",
-  "notes": "首页新设计同步进更新频道",
+  "notes": "PhotoGo 字标换成 Fraunces 斜体，P 字单独设计",
   "files": {
     "app.js": "82e90a0d630c5f5c2a410ffa213f1efd24cba6304d3812f553ddf074f1150bf4",
-    "index.html": "7445d1f14dd895fe9c598611285608ac8f5d2562c66c73f42df648f430dfc4b5",
-    "splash.html": "3d3eb01dd4240f876cf060a6ecd3f69b65ba6debb3331d48677a8891998878f5",
+    "index.html": "81c51fc45edc404cd71755f85e7bd89b8221187a72584e62e9578ba29af93a60",
+    "splash.html": "0ce6488acf89579fc86892081013146e42f2276460d7545c48bb93c001b64a4f",
     "splash-art.jpg": "d4642832e024d7b8493bc9ed5bc183562617becd6f6aa9de66bdab13f759e6d7",
     "splash-icon.png": "d1f005eef651b346c77a83bdee706ffde3f2954700e841b2279e1971333a8e34"
   }
